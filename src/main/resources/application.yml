@@ -1,6 +1,6 @@
 spring:
   application:
-    name: java-xah
+    name: java-web
 app:
   domain:
   port:
